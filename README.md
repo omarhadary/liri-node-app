@@ -1,6 +1,6 @@
 # LIRI Node App
 
-![N|Solid](http://cdn1.knowyourmobile.com/sites/knowyourmobilecom/files/2016/05/siri_0.jpg)
+![N|Solid](https://pbs.twimg.com/profile_images/586068512357097472/zlDJpJhS.png)
 
 LIRI is a Language Interpretation and Recognition Interface. It is a command line node app that takes in parameters and gives you back data.
 
