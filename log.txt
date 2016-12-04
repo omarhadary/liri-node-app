@@ -1,0 +1,61 @@
+Tweet 1: Got it now ... Created on: Fri Dec 02 02:25:12 +0000 2016
+Tweet 2: Off by two ... Created on: Fri Dec 02 02:25:08 +0000 2016
+Tweet 3: Do I have twenty now ... Created on: Fri Dec 02 02:24:56 +0000 2016
+Tweet 4: Why is this still around ... Created on: Fri Dec 02 02:24:34 +0000 2016
+Tweet 6: Are people following me going to see this ... Created on: Fri Dec 02 02:24:13 +0000 2016
+Tweet 8: What's Twitter trying to say about me ... Created on: Fri Dec 02 02:23:49 +0000 2016
+Tweet 10: It's spiritually draining ... Created on: Fri Dec 02 02:19:12 +0000 2016
+Tweet 7: I should probably change it ... Created on: Fri Dec 02 02:24:02 +0000 2016
+Tweet 11: I never realized posting tweets can be so time consuming ... Created on: Fri Dec 02 02:18:54 +0000 2016
+Tweet 5: How does this even work ... Created on: Fri Dec 02 02:24:25 +0000 2016
+Tweet 9: Why is my avatar an egg ... Created on: Fri Dec 02 02:23:23 +0000 2016
+Tweet 13: How many tweets do I have now ... Created on: Fri Dec 02 02:18:25 +0000 2016
+Tweet 12: Not that many - this is hard work ... Created on: Fri Dec 02 02:18:42 +0000 2016
+Tweet 14: I was a very gifted infant ... Created on: Fri Dec 02 02:17:42 +0000 2016
+Tweet 16: I was never really here ... Created on: Fri Dec 02 02:17:14 +0000 2016
+Tweet 15: My last tweet was in 1984 ... Created on: Fri Dec 02 02:17:30 +0000 2016
+Tweet 17: Hello Twitter, good to be back ... Created on: Fri Dec 02 02:17:07 +0000 2016
+Tweet 18: I need to get 20 posts going ... Created on: Fri Dec 02 02:16:47 +0000 2016
+Tweet 19: Probably not ... Created on: Fri Dec 02 02:16:33 +0000 2016
+Tweet 20: Do I have 20 posts? ... Created on: Fri Dec 02 02:16:27 +0000 2016
+
+----------Spotify Data----------
+"Artist(s): Ace of Base".
+The song's name: The Sign.
+A preview link of the song from Spotify: https://p.scdn.co/mp3-preview/177e65fc2b8babeaf9266c0ad2a1cb1e18730ae4
+The album that the song is from: The Sign (US Album) [Remastered].
+----------Spotify Data----------
+"Artist(s): Sublime".
+The song's name: What I Got.
+A preview link of the song from Spotify: https://p.scdn.co/mp3-preview/1e7ed0cacd378842b8b7a18a52a42b2bea7cecc2
+The album that the song is from: Gold.
+----------Movie Data----------
+Movie Title: Mr. Nobody
+Year: 2009
+IMDB Rating: 7.9
+Country of Production: Belgium, Germany, Canada, France
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomatoes Rating: 6.6
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/mr-nobody/
+----------Movie Data----------
+Movie Title: Rushmore
+Year: 1998
+IMDB Rating: 7.7
+Country of Production: USA
+Language: English, Spanish, Latin, French
+Plot: The extracurricular king of Rushmore preparatory school is put on academic probation.
+Actors: Jason Schwartzman, Bill Murray, Olivia Williams, Seymour Cassel
+Rotten Tomatoes Rating: 8.1
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/rushmore/
+----------Movie Data----------
+Movie Title: The Big Lebowski
+Year: 1998
+IMDB Rating: 8.2
+Country of Production: USA, UK
+Language: English, German, Hebrew, Spanish
+Plot: "The Dude" Lebowski, mistaken for a millionaire Lebowski, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.
+Actors: Jeff Bridges, John Goodman, Julianne Moore, Steve Buscemi
+Rotten Tomatoes Rating: 7.2
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/big_lebowski/
