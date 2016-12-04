@@ -59,6 +59,25 @@ function spotifyAPI() {
     });
 };
 
-function omdbAPI() {};
+function omdbAPI() {
+
+    var request = require("request");
+    // Then run a request to the OMDB API with the movie specified
+    var queryUrl = "http://www.omdbapi.com/?t=" + songOrMovie + "&y=&plot=short&r=json&tomatoes=true";
+
+    request(queryUrl, function(error, response, body) {
+
+        if ( error ) {
+            return console.log('Error occurred: ' + error);
+
+        } else if (songOrMovie == null) {
+            songOrMovie = "Mr. Nobody";
+            omdbAPI();
+            return;
+        }
+            // Parse the body of the site and recover just the imdbRating
+            console.log("Movie Title: "+JSON.parse(body).Title+"\nYear: "+JSON.parse(body).Year+"\nIMDB Rating: "+JSON.parse(body).imdbRating+"\nCountry of Production: "+JSON.parse(body).Country+"\nLanguage: "+JSON.parse(body).Language+"\nPlot: "+JSON.parse(body).Plot+"\nActors: "+JSON.parse(body).Actors+"\nRotten Tomatoes Rating: "+JSON.parse(body).tomatoRating+"\nRotten Tomatoes URL: "+JSON.parse(body).tomatoURL);
+    });
+};
 
 function textFile() {};
