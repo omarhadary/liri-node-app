@@ -44,11 +44,11 @@ function twitterAPI() {
 function spotifyAPI() {
     var spotify = require('spotify');
 
-    spotify.search({ type: 'track', query: 'dancing in the moonlight' }, function(err, data) {
+    spotify.search({ type: 'track', query: 'the sign ace of base' }, function(err, data) {
         if ( err ) {
            return console.log('Error occurred: ' + err);
         }
-        console.log(JSON.stringify(data, null, 2));
+        console.log(JSON.stringify("Artist(s): "+data.tracks.items[0].artists[0].name)+".\nThe song's name: "+data.tracks.items[0].name+".\nA preview link of the song from Spotify: "+data.tracks.items[0].preview_url+"\nThe album that the song is from: "+data.tracks.items[0].album.name+".");
     });
 };
 
