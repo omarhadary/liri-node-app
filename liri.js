@@ -41,8 +41,17 @@ function twitterAPI() {
     });
 }
 
-function spotifyAPI() {}
+function spotifyAPI() {
+    var spotify = require('spotify');
 
-function omdbAPI() {}
+    spotify.search({ type: 'track', query: 'dancing in the moonlight' }, function(err, data) {
+        if ( err ) {
+           return console.log('Error occurred: ' + err);
+        }
+        console.log(JSON.stringify(data, null, 2));
+    });
+};
 
-function textFile() {}
+function omdbAPI() {};
+
+function textFile() {};
