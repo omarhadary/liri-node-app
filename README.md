@@ -9,4 +9,8 @@ You can:
   - Output information about a song or a movie of your choice
   - Take input from a different local file and use it to call LIRI commands
  
+<<<<<<< HEAD
 > Output is logged in the terminal and in a local file.
+=======
+> Output is logged in the terminal and in a local file.
+>>>>>>> c068e42c8c3e258b0cb9962b41d9179400cdf2e8
