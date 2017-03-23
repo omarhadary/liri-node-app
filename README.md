@@ -11,3 +11,27 @@ You can:
 
 > Output is logged in the terminal and in a local file.
 
+### Tech
+
+LIRI uses open source tools:
+
+* [Twitter](https://www.npmjs.com/package/twitter)
+* [Spotify](https://www.npmjs.com/package/spotify)
+* [OMDB API](http://www.omdbapi.com)
+* [Request](https://www.npmjs.com/package/request)
+
+
+### Installation
+
+LIRI requires [Node.js](https://nodejs.org/) to run.
+
+Install the dependencies.
+
+```sh
+$ npm install
+```
+
+[Twitter]: <https://www.npmjs.com/package/twitter>
+[Spotify]: <https://www.npmjs.com/package/spotify>
+[Request]: <https://www.npmjs.com/package/request>
+[OMDB API]: <http://www.omdbapi.com>
